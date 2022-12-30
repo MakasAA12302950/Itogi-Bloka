@@ -1,0 +1,15 @@
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\bin\Debug\net6.0\Zadacha2reshenie.exe
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\bin\Debug\net6.0\Zadacha2reshenie.deps.json
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\bin\Debug\net6.0\Zadacha2reshenie.runtimeconfig.json
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\bin\Debug\net6.0\Zadacha2reshenie.dll
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\bin\Debug\net6.0\Zadacha2reshenie.pdb
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\obj\Debug\net6.0\Zadacha2reshenie.csproj.AssemblyReference.cache
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\obj\Debug\net6.0\Zadacha2reshenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\obj\Debug\net6.0\Zadacha2reshenie.AssemblyInfoInputs.cache
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\obj\Debug\net6.0\Zadacha2reshenie.AssemblyInfo.cs
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\obj\Debug\net6.0\Zadacha2reshenie.csproj.CoreCompileInputs.cache
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\obj\Debug\net6.0\Zadacha2reshenie.dll
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\obj\Debug\net6.0\refint\Zadacha2reshenie.dll
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\obj\Debug\net6.0\Zadacha2reshenie.pdb
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\obj\Debug\net6.0\Zadacha2reshenie.genruntimeconfig.cache
+C:\Users\makas\Documents\GeekBrains\Itogi\Zadacha2reshenie\obj\Debug\net6.0\ref\Zadacha2reshenie.dll
